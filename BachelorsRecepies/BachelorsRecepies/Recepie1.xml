@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  
+  <Item>
+    <Number>1</Number>
+    <Name>Maggi</Name>
+    <Ingredients>
+      <Items>Maggi</Items>
+      <Items>Water</Items>
+    </Ingredients>
+    <Desc>
+      -> 2 cups of water.
+      -> Boil it.
+      -> Put masala.
+      -> Add Maggi.
+      -> Serve hot.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>18</Number>
+    <Name>Upma</Name>
+    <Ingredients>
+      <Items>
+        1 cup Rava(Semolina)
+        1 inch Ginger chopped
+        2 chopped Onion
+        3 Green Chillies slit sideways
+        1 Potato chopped
+        1 Tomato chopped
+        1 Carrot chopped
+        100 gms Green Peas frozen or fresh
+        1 tsp Mustard Seeds
+        Salt to taste
+        1/2 tsp Turmeric Powder
+        3 tblsp Oil
+        Few curry leaves
+        Finely chopped corianderleaves
+        Lemon juice to taste
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> In a pan, fry rava without oil, on a moderate heat, stiring constantly until its light golden brown.Keep aside.
+      -> Now heat 3 tbsp oil in a pan and add mustard seeds and allow them to splatter.
+      -> Then add green chillies , curry leaves to it.
+      -> Add onion, ginger. Sauté for 2-3 minutes.Then add tomato.
+      -> Add all the vegetables, turmeric.and salt to taste.
+      -> Now add 3 cups of water and cover the pan and allow it simmer on low heat until the vegetables are soft and cooked.
+      -> Add the fried rava to it stirring constantly till it becomes little thick.
+      -> Take off from the heat and add lemon juice if desired.
+      -> Serve hot garnished coriander.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>5</Number>
+    <Name>Vegetable Palav</Name>
+    <Ingredients>
+      <Items>
+        1 cup rice
+        4 green chillies chopped
+        2 tomato chopped
+        2 onion chopped
+        1 carrot chopped
+        1 potato chopped
+        5 beans chopped
+        1 tsp jeera
+        1/4 tsp turmeric powder
+        3-4 round pepper
+        2 cinnamon sticks
+        2 cloves
+        2 cardamom
+        2 tsp ginger garlic paste
+
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Heat 4 Tbsp of oil in a cooker.
+      -> Add jeera,cinnamon,cloves,cardamom,pepper.Keep in low flame for 2 minutes.
+      -> To that add chopped onions and fry till golden brown.
+      -> Now add tomato , green chilly. Saute for 3-4 minutes.Now add the ginger garlic paste.
+      -> Add the vegetables and mix well. Add turmeric powder.
+      -> Add rice, salt, four cups of water and stir well. Cover and wait for 2 whistle.
+      -> Just before serving take the rice in serving bowl, add the nuts and corriander leaves.mix well.
+      -> Serve vegetable pulao hot with raita
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>3</Number>
+    <Name>Poha</Name>
+    <Ingredients>
+      <Items>
+        2 cup Poha(thick Avalakki)
+        1 Potato chopped
+        1 Onion chopped
+        1 Tomato chopped
+        2 Green Chillies chopped
+        1 tsp Mustard Seeds
+        1 sprig Curry leaves
+        2 tbsp Peanuts
+        1 tsp coriander powder
+        4 tblsp Oil
+        1 pinch Turmeric powder
+        1 Lemon
+        Few Corainder leaves
+        Salt to taste
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Soak the poha in water. Wash and drain all the water.Keep aside.
+      -> Heat oil in a pan, to that add peanuts and fry on a moderate heat, stiring constantly until its light golden brown.Take peanuts out and keep aside.
+      -> To the same pan add mustard seeds.
+      -> Then add potatoes , saute for few minutes, then add chopped onions,chopped tomato and chillies.
+      -> To that add coriander powder ,turmeric powder and salt.
+      -> Now add the fried peanuts and saute for few minutes.
+      -> Add the poha,and add corainder leaves and stir.
+      -> Keep it on slow flame for 4-5 minutes.
+      -> Let it cool for sometime and add then lemon juice.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>10</Number>
+    <Name>Bhindi Fry</Name>
+    <Ingredients>
+      <Items>
+        500 gms bhindi (washed ,dried and sliced)
+        2 onions chopped
+        1 tomato chopped
+        1 green chilly
+        1/4 tsp turmeric powder
+        1 tsp cumin powder
+        1 tsp coriander powder
+        1 tsp garam masala
+        1 tsp chilli powder
+        Few corriander leaves
+        salt to taste
+        cooking oil
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Heat oil in a pan.Add chopped onions and fry till golden brown.
+      -> Now add tomato , green chilly . Saute for 3-4 minutes.
+      -> To that add - all the masala powders listed in ingredients.
+      -> Now add sliced bhindi and salt to taste.Keep it on low flame for 5-8 minutes.
+      -> Garnish with corriander leaves.
+      -> Serve hot with chapatis.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>11</Number>
+    <Name>Aloo Capsicum Sabsi</Name>
+    <Ingredients>
+      <Items>
+        1 capsicum sliced
+        2 onions chopped
+        1 aloo chopped
+        1 tomato chopped
+        1 green chilly
+        1/4 tsp turmeric powder
+        1 tsp cumin powder
+        1 tsp pepper powder
+        1 tsp coriander powder
+        1 tsp garam masala powder
+        1 tsp chilli powder
+        Few corriander leaves
+        salt to taste
+        cooking oil
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Heat oil in a pan.Add chopped onions and fry till golden brown.
+      -> Now add tomato , green chilly . Saute for 3-4 minutes.
+      -> After that add potato cubes and capsicum . Saute for 5-8 minutes.
+      -> To that add - all the masala powders listed in ingredients.And salt to taste.
+      -> Garnish with corriander leaves.
+      -> Serve hot with chapatis.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>16</Number>
+    <Name>Aloo Mutter Sabsi</Name>
+    <Ingredients>
+      <Items>
+        1/2 cup Green Peas frozen
+        2 onions chopped
+        1 aloo chopped
+        1 tomato chopped
+        1 green chilly
+        1/4 tsp turmeric powder
+        1 tsp cumin powder
+        1 tsp pepper powder
+        1 tsp coriander powder
+        1 tsp garam masala powder
+        1 tsp chilli powder
+        Few corriander leaves
+        salt to taste
+        cooking oil
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Heat oil in a pan.Add chopped onions and fry till golden brown.
+      -> Now add tomato , green chilly . Saute for 3-4 minutes.
+      -> After that add potato cubes and peas . Saute for 5-8 minutes.
+      -> To that add - all the masala powders listed in ingredients.And salt to taste.
+      -> Garnish with corriander leaves.
+      -> Serve hot with chapatis.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>4</Number>
+    <Name>Sandwitch</Name>
+    <Ingredients>
+      <Items>
+        Bread
+        Tomatoes
+        Onion
+        Butter
+        Chutney (optional)
+        Cucumber
+        Any leafy vegetable
+        Boiled potatoes
+        Salt
+        Pepper/Chat Masala
+      </Items>
+    </Ingredients>
+    <Desc>
+     -> Cut all the vegetables(Slices).
+     -> Apply butter/chutney on to bread.
+     -> fry the bread if possible
+     ->Arrange the sliced veggies one over other alternatively appliyng salt and pepper 
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>8</Number>
+    <Name>Daal</Name>
+    <Ingredients>
+      <Items>
+      Toor / Masoor / Chana Daal
+      1 Tomato (Tamatar)
+      1/2 tsp Jeera
+      1/4 tsp Turmeric (Haldi) Powder
+      2 Green chilli
+      3 tsp Oil
+      1 level tsp Salt (Namak)
+      3 Garlic (Lasun) Cloves
+      Mustard Seeds( for TADKA0
+      </Items>
+    </Ingredients>
+    <Desc>
+     -> Boil the dal with salt, turmeric powder and slit green chillies.
+     -> In another pan, heat oil, add the jeera, tomatoes and garlic.
+     -> Put mustards seeds for taste.
+     -> Add the boiled dal into this with little water, boil well for 15 minutes to incorporate the masala into the dal, garnish with coriander.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>2</Number>
+    <Name>Rice</Name>
+    <Ingredients>
+      <Items>White Rice(1 cup)</Items>
+      <Items>Water(2 cups)</Items>
+    </Ingredients>
+    <Desc>
+      -> Clean up the rice.
+      -> Put rice(1 cup).
+      -> Water (2 cups).
+      -> Allow it to be cooked. 3 whistels on high flame and 3 whistels on low flame with cooker weight.
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>6</Number>
+    <Name>Fried Rice</Name>
+    <Ingredients>
+      <Items>
+        Rice 1 cup
+        Ghee or butter
+        3 onions
+        Beans
+        Carrots
+        cinnamon
+        Peas
+        peppercorns
+        Salt
+        Water 2 cups
+        Coriender Leaves
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Heat the ghee in a large pan and add the finely sliced onion.
+      -> Fry it, Add the chopped veggies and fry them.
+      -> To the hot fat, add the washed and drained rice and the spices.
+      -> Keep stirring and fry for 4-5 minutes till the rice appears glazed.
+      -> Add the water to it in cooker.
+      -> Let the rice cook after adding salt,fried veggies and peas.
+      -> Server garnished with Coriender Leaves
+    </Desc>
+  </Item>
+  
+  <Item>
+    <Number>7</Number>
+    <Name>Curd Rice</Name>
+    <Ingredients>
+      <Items>
+        Rice Prepared
+        3 onions
+        Ground nuts
+        Green Chillies
+        Salt
+        Coriender Leaves
+        Mustard seeds
+        Curd
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Fry the ground nuts. Take them out.
+      -> Fry onions till brown color,add chillies and mustard seeds.
+      -> Mix the curd well with the rice prepared.
+      -> Add Salt,and the fried stuff.
+      -> Server garnished with Coriender Leaves
+    </Desc>
+  </Item>
+
+  <Item>
+    <Number>9</Number>
+    <Name>Veg Biryani</Name>
+    <Ingredients>
+      <Items>
+        1 cup Basmati Rice
+        2 Tomatoes
+        A handful of French Beans.
+        Vegetable Oil.
+        One medium Sized onion Finely Chopped.
+        4 cloves of garlic and a finger of ginger finely chopped.
+        Garam Masala
+        Ginger Garlic Paste
+        Turmeric Powder
+        Coriender Powder
+        Geera Powder
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Heat Oil.
+      -> Let sputter 5 cloves of clove, 1 Tsp Jeera, 1 Tsp Mustard seed and a Bayleaf.
+      -> Add a Red Kashmiri Chilli too.
+      -> Add finely chopped Onions.
+      -> Add the chopped Ginger Garlic.
+      -> Add half a Tsp of red chilli powder.
+      -> Now add the Tomatoes and the beans.
+      -> Saute for a few minutes.
+      -> Add the Rice, and water.
+      -> Level of water should be about an inch above the rice.
+      -> Add a tsp of Biryani masala ( you may replace it with Garam amasala or just Dhania + Jeera powder).
+      -> Add salt to taste.
+      -> Cover and let out 3 whistles.
+    </Desc>
+  </Item>
+
+  <Item>
+    <Number>12</Number>
+    <Name>Lemon Rice</Name>
+    <Ingredients>
+      <Items>
+        Rice Prepared
+        3 onions
+        Ground nuts
+        Green Chillies
+        Salt
+        Coriender Leaves
+        Mustard seeds
+        Turmeric Powder
+        2 Lemon
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Fry the ground nuts. Take them out.
+      -> Fry onions till brown color,add chillies and mustard seeds.
+      -> Mix the rice prepared.
+      -> Add Salt and turmeric powder.
+      -> Keep on low flame and allow to heat for 10 mins.
+      -> Server garnished with Coriender Leaves
+    </Desc>
+  </Item>
+
+  <Item>
+    <Number>14</Number>
+    <Name>Puliogere Rice</Name>
+    <Ingredients>
+      <Items>
+        Rice Prepared
+        Ground nuts
+        Salt
+        Mustard seeds
+        Puliogere powder
+       </Items>
+    </Ingredients>
+    <Desc>
+      -> Fry the ground nuts. Take them out.
+      -> Heat the oil and add the puliogere powder.
+      -> Mix the rice prepared.
+      -> Add Salt.
+      -> Keep on low flame and allow to heat for 10 mins.
+      -> Serve Hot.
+    </Desc>
+  </Item>
+
+  <Item>
+    <Number>12</Number>
+    <Name>Lemon Rice</Name>
+    <Ingredients>
+      <Items>
+        Rice Prepared
+        3 onions
+        Ground nuts
+        Green Chillies
+        Salt
+        Coriender Leaves
+        Mustard seeds
+        Turmeric Powder
+        2 Lemon
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Fry the ground nuts. Take them out.
+      -> Fry onions till brown color,add chillies and mustard seeds.
+      -> Mix the rice prepared.
+      -> Add Salt and turmeric powder.
+      -> Keep on low flame and allow to heat for 10 mins.
+      -> Server garnished with Coriender Leaves
+    </Desc>
+  </Item>
+
+  <Item>
+    <Number>13</Number>
+    <Name>Daal Palak</Name>
+    <Ingredients>
+      <Items>
+        Toor / Masoor / Chana Daal
+        Palak leaves
+        1 Tomato (Tamatar)
+        1/2 tsp Jeera
+        1/4 tsp Turmeric (Haldi) Powder
+        2 Green chilli
+        3 tsp Oil
+        1 level tsp Salt (Namak)
+        3 Garlic (Lasun) Cloves
+        Mustard Seeds( for TADKA0
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Clean up the palak leaves properly.
+      -> Boil the dal alond with uncut palak leaves with salt, turmeric powder and slit green chillies.
+      -> In another pan, heat oil, add the jeera, tomatoes and garlic.
+      -> Put mustards seeds for taste.
+      -> Add the boiled dal and palak into this with little water, boil well for 15 minutes to incorporate the masala into the dal, garnish with coriander.
+    </Desc>
+  </Item>
+
+  <Item>
+    <Number>15</Number>
+    <Name>Jeera Rice</Name>
+    <Ingredients>
+      <Items>
+        Rice 1 cup
+        Water 2 cups
+        3 onions
+        Green Chillies
+        Salt
+        Coriender Leaves
+        Jeera/ Jeera powder
+      </Items>
+    </Ingredients>
+    <Desc>
+      -> Fry onions till brown color,add chillies and mustard seeds.
+      -> Mix the Jeera / Jeera powder.
+      -> Add Salt.
+      -> Fry raw rice with the mixture for a while.
+      -> Cook this rice.
+      -> Serve hot.
+    </Desc>
+  </Item>
+
+  
+
+</Root> 

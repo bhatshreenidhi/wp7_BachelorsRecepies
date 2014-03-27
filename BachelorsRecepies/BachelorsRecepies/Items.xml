@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Item>
+    <Number>1</Number>
+    <Name>Maggi</Name>
+    <Type>1</Type>
+  </Item>
+  <Item>
+    <Number>18</Number>
+    <Name>Upma</Name>
+    <Type>1</Type>
+  </Item>
+  <Item>
+    <Number>3</Number>
+    <Name>Poha</Name>
+    <Type>1</Type>
+  </Item>
+  <Item>
+    <Number>4</Number>
+    <Name>Sandwitch</Name>
+    <Type>1</Type>  
+  </Item>
+  <Item>
+    <Number>2</Number>
+    <Name>Rice</Name>
+    <Type>2</Type>
+  </Item>
+
+  <Item>
+    <Number>5</Number>
+    <Name>Pulav</Name>
+    <Type>2</Type>
+  </Item>
+  <Item>
+    <Number>6</Number>
+    <Name>Fried Rice</Name>
+    <Type>2</Type>
+  </Item>
+  <Item>
+    <Number>7</Number>
+    <Name>Curd Rice</Name>
+    <Type>2</Type>
+  </Item>
+  <Item>
+    <Number>8</Number>
+    <Type>3</Type>
+    <Name>Daal</Name>
+  </Item>
+  <Item>
+    <Name>Veg Biryani</Name>
+    <Type>2</Type>
+    <Number>9</Number>
+  </Item>
+  <Item>
+    <Name>Bhindi Fry</Name>
+    <Type>3</Type>
+    <Number>10</Number>
+  </Item>
+  <Item>
+    <Name>Aloo Capsicum Sabsi</Name>
+    <Type>3</Type>
+    <Number>11</Number>
+  </Item>
+  <Item>
+    <Name>Lemon Rice</Name>
+    <Type>2</Type>
+    <Number>12</Number>
+  </Item>
+  <Item>
+    <Name>Daal Palak</Name>
+    <Type>3</Type>
+    <Number>13</Number>
+  </Item>
+  <Item>
+    <Name>Puliogere Rice</Name>
+    <Type>2</Type>
+    <Number>14</Number>
+  </Item>
+  <Item>
+    <Name>Jeera Rice</Name>
+    <Type>2</Type>
+    <Number>15</Number>
+  </Item>
+  <Item>
+    <Name>Aloo Mutter</Name>
+    <Type>3</Type>
+    <Number>16</Number>
+  </Item>
+  <Item>
+    <Name>Madras Sambar</Name>
+    <Type>3</Type>
+    <Number>17</Number>
+  </Item>
+</Root>
